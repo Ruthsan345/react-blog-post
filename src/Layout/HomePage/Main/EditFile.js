@@ -4,7 +4,7 @@ import {reactLocalStorage} from 'reactjs-localstorage';
 import firebase from '../../../config/firebase';
 import { firestore } from 'firebase';
 import PropTypes from 'prop-types';
-import './Editfile.module.css';
+
 import CloseIcon from '@material-ui/icons/Close';
 import Link from '@material-ui/core/Link';
 
